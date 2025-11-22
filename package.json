@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  },
+  "name": "typescript_testcode",
+  "version": "1.0.0",
+  "description": "typescript test code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimitarpg13/typescript_testcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimitarpg13/typescript_testcode/issues"
+  },
+  "homepage": "https://github.com/dimitarpg13/typescript_testcode#readme"
+}
